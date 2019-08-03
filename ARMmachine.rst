@@ -17,7 +17,7 @@ Problem Statement Outline
 
 Below is an outline of the machine being constructed by Major Tom: 
 
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/Outline.JPG
+..  image:: https://github.com/zandratharp2012/ARM/blob/master/Images/Outline.JPG
     :scale: 50%
 
 Machine Diagrams
@@ -38,7 +38,7 @@ The fetch process begins with the following code:
 
 The user enters information and the machine then fetches the information that was input by the user.
   
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/Fetch.JPG
+..  image:: https://github.com/zandratharp2012/ARM/blob/master/Images/Fetch.JPG
     :scale: 50%
 
 Decode
@@ -52,7 +52,7 @@ The decode process begins after the input during the loop to determine what valu
   {operand = key;}
   else if (isInteger(key))
   
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/Decode.PNG
+..  image:: https://github.com/zandratharp2012/ARM/blob/master/Images/Decode.PNG
     :scale: 50%
 
 Execute
@@ -76,7 +76,7 @@ The execute process begins during the switch statement such as the following cod
         }
    }
 
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/Execute.PNG
+..  image:: https://github.com/zandratharp2012/ARM/blob/master/Images/Execute.PNG
     :scale: 50%
 
 Store
@@ -89,7 +89,7 @@ The store process takes place when values are stored in the array when the user 
   ++exp;
   key = input[exp];
 
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/Store.PNG
+..  image:: https://github.com/zandratharp2012/ARM/blob/master/Images/Store.PNG
     :scale: 50%
 
 Improvements After First Attempt
