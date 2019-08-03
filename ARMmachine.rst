@@ -3,7 +3,7 @@
 Machine Simulator  
 #################
 
-Below is a description of the function desired. We are working with machine language and translating to C++ in order to simulate a CPU. 
+Below is a description of the function desired. We are working with assembly language and translating to C++ in order to simulate a CPU. 
 
 ..  image:: https://github.com/zandratharp2012/ARM/blob/master/Images/ARMproject2.JPG
     :scale: 50%
