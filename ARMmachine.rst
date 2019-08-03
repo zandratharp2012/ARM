@@ -5,7 +5,7 @@ Machine Simulator
 
 Below is a description of the function desired. We are working with machine language and translating to C++ in order to simulate a CPU. 
 
-..  image:: https://github.com/zandratharp2012/ARM.git/ARM/blob/master/Images/ARMproject.JPG
+..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/ARM/Images/ARMproject.JPG
     :scale: 50%
 
 ..  image:: https://github.com/zandratharp2012/ARM.git/ARM/blob/master/Images/ARMproject2.JPG
