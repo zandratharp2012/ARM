@@ -5,10 +5,10 @@ Machine Simulator
 
 Below is a description of the function desired. We are working with machine language and translating to C++ in order to simulate a CPU. 
 
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/ARMproject.JPG
+..  image:: https://github.com/zandratharp2012/ARM.git/ARM/blob/master/Images/ARMproject.JPG
     :scale: 50%
 
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/ARMproject2.JPG
+..  image:: https://github.com/zandratharp2012/ARM.git/ARM/blob/master/Images/ARMproject2.JPG
     :scale: 50%
 
 
@@ -17,7 +17,7 @@ Problem Statement Outline
 
 Below is an outline of the machine being constructed by Major Tom: 
 
-..  image:: https://github.com/zandratharp2012/ARM.git/blob/master/Images/Outline.JPG
+..  image:: https://github.com/zandratharp2012/ARM.git/ARM/blob/master/Images/Outline.JPG
     :scale: 50%
 
 Machine Diagrams
